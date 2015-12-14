@@ -11,9 +11,4 @@ public class MainActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
-    /*
-    https://git.oschina.net/1031066280/ThroughWaring.git
-    https://git.oschina.net/tudounigemalingshu/Test.git
-    https://git.oschina.net/tudounigemalingshu/MyFirst.git
-     */
 }
